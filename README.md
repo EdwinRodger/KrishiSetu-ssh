@@ -1,8 +1,16 @@
-# KrishiSetu - Symbiosis Skill Hackathon Project
+# KrishiSetu - Symbiosis Skill Hackathon 2026
 
-A modern React-based farming website prototype built for Symbiosis Skill Hackathon using React Router v7 and Bootstrap 5.
+A one-stop digital platform (web + app) for farmers featuring a dedicated marketplace for crops and agri-waste, advisory resources, query support and AI based recommendations - empowering farmers with income and tools for self-reliant and sustainable rural growth.
 
-## Features
+<img width="923" height="498" alt="image" src="https://github.com/user-attachments/assets/44f55f4a-1eb6-40ed-86dc-311f61326c1d" />
+
+## Solution Highlights 
+Smart Marketplace : An easy buy-sell platform for farmers and buyers. 
+Supervisor-led Query Support : Supervisors helpline and voice-chat support for farmers.
+Awareness and Guidance Hub : Infographics, success stories and motivation that educate and inspire.
+Multilingual Support : Hindi + English + regional languages that engages farmers.
+
+## Techincal Features
 
 -   **Responsive Design**: Built with Bootstrap 5 for mobile-first responsive design
 -   **Modern Routing**: Uses React Router v7 for declarative routing
@@ -46,12 +54,18 @@ src/
    Navigate to `http://localhost:5173` to view the application
 
 ## Technologies Used
-
--   **React 19** - Frontend framework
--   **Vite** - Build tool and development server
--   **React Router v7** - Client-side routing
--   **Bootstrap 5** - CSS framework for styling
--   **JavaScript** - Programming language (no TypeScript)
+### Languages : 
+HTML CSS and JavaScript (Frontend) 
+Java(Backend)
+Python (Chatbot)
+### Tools and Frameworks :
+Flask and LangChain (RAG Chatbot)
+MySQL (Database)
+React (Website)
+React Native (Mobile app)
+React i18n (Translation)
+SpringBoot (Backend)
+Bootstrap (Styling)
 
 ## Key Features
 
